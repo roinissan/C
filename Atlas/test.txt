@@ -1,0 +1,6 @@
+israel,1,2,2,1
+	HodHasharon,frozenYogurt,100
+	beersheba,hummus,200
+anotherExample,3,4,4,2
+	zyx,aaa,1
+	abc,zzz,2 
